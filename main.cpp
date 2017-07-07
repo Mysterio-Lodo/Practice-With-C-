@@ -17,6 +17,8 @@ int main()
 	string cheese;
 	int skip;
 	//int i;
+	//int w;
+	//int f;
 
 	cout << "Give me a roman Numeral bitch " << endl;
 	cin  >> roman;
