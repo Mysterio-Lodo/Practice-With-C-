@@ -35,11 +35,6 @@ int main()
 	}
 	ChooseOutput(roman1);
 	
-	if (skip > 100)
-	{
-		cout << "Something is wrong with code" << endl;
-	}
-
 
 
 
